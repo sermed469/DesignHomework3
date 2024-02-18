@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sosyal</string>
+    <string name="toolbarName">Profil Oluştur</string>
+    <string name="detail">Benzersiz bir kullanıcı adı oluşturarak çevrimiçi toplulukta kalıcı bir etki bırakacaksınız.</string>
+    <string name="nameSurname">Sermed Kerim</string>
+    <string name="suggestedUsername1">sermed123</string>
+    <string name="suggestedUsername2">srm357</string>
+    <string name="suggestedUsername3">kerim34</string>
+    <string name="suggestedUsername4">kerim123</string>
+    <string name="suggestedUsername5">serm67</string>
+    <string name="usernameTitle">Kullanıcı Adı</string>
+    <string name="usernameHint">Benzersiz bir isim girin ya da yukarıdakilerden birini seçin</string>
+    <string name="usernameStatus">Kullanıcı adı kullanılabilir</string>
+    <string name="ButtonName">Profil Oluştur</string>
+</resources>

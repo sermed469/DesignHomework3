@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Social</string>
+    <string name="toolbarName">Create Profile</string>
+    <string name="detail">By creating a distinctive username, you will leave a lasting impression in the online community</string>
+    <string name="nameSurname">Sermed Kerim</string>
+    <string name="suggestedUsername1">sermed123</string>
+    <string name="suggestedUsername2">srm357</string>
+    <string name="suggestedUsername3">kerim34</string>
+    <string name="suggestedUsername4">kerim123</string>
+    <string name="suggestedUsername5">serm67</string>
+    <string name="usernameTitle">Username</string>
+    <string name="usernameHint">Enter a unique name or choose from top</string>
+    <string name="usernameStatus">Username available</string>
+    <string name="ButtonName">Create Profile</string>
+</resources>

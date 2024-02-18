@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="appColor">#49B1F2</color>
+    <color name="textColor1">#010440</color>
+    <color name="textColor2">#FFFFFF</color>
+    <color name="chipColor">#FFFFFF</color>
+</resources>
